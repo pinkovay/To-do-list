@@ -1,0 +1,7 @@
+# Ignorar diretórios de dependências
+client/node_modules/
+server/node_modules/
+
+# Ignorar arquivos de configuração sensíveis
+client/.env
+server/.env
